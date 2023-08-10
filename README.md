@@ -2,7 +2,7 @@
 
 The TTN Tracker is a [Things Network](https://www.thethingsnetwork.org/) node with a gps, used to map out coverage on [TTN Mapper](https://ttnmapper.org/). The device is aimed at end users, but can also be reprogrammed by more advanced users.
 
-Thisrepository contains the schematics used to create the device as well as any additional files and the firmware that was loaded on the device.
+This repository contains the schematics used to create the device as well as any additional files and the firmware that was loaded on the device.
 
 ### Schematics
 The schematics were created using [KiCad 4.0.7](http://kicad.org/)
